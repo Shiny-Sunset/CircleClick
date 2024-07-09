@@ -1,5 +1,9 @@
 CircleClicker
 
+以下のURLでプレイ可能
+
+https://shiny-sunset.github.io/CircleClick/
+
 遊び方
 
 1分間、円をクリックしてハイスコアを目指すゲームです。
