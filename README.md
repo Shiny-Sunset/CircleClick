@@ -1,6 +1,6 @@
-CircleClicker
+CircleClickerというゲームを作りました。
 
-以下のURLでプレイ可能
+以下のURLでプレイ可能です。
 
 https://shiny-sunset.github.io/CircleClick/
 
